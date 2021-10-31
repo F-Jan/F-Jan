@@ -1,3 +1,4 @@
 ### Hey
 
-My name is Jan. I love to develop Software and also to learn new technologies.
+My name is Jan.<br/>
+I love developing software and learning new technologies.

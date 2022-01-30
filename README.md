@@ -5,7 +5,7 @@ My name is Jan.<br/>
 I love developing software and learning new technologies.
 
 #
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=F-Jan&theme=calm)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=F-Jan&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Languages:
 <p>

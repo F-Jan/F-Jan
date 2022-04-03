@@ -12,7 +12,7 @@ I love developing software and learning new technologies.
   <a href = "https://openjdk.java.net" title = "Java">
     <img src = "https://icons-for-free.com/iconfiles/png/512/java+plain-1324760550763276268.png" width = 7%>
   </a>
-  <a href = "https://openjdk.java.net" title = "Java">
+  <a href = "https://kotlinlang.org/" title = "Java">
     <img src = "https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kotlin/kotlin.png" width = 7%>
   </a>
   <a href = "https://www.javascript.com" title = "JavaScript">

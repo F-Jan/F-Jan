@@ -21,4 +21,7 @@ I love developing software and learning new technologies.
   <a href = "https://www.python.org" title = "Python">
     <img src = "https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" width = 7%>
   </a>
+  <a href = "" title = "Python">
+    <img src = "https://raw.githubusercontent.com/isocpp/logos/master/cpp_logo.png" width = 7%>
+  </a>
 </p>

@@ -7,7 +7,7 @@ I love developing software and learning new technologies.
 #
 [![wakatime](https://wakatime.com/badge/user/30539af5-cc82-4185-ba27-e3d33147e228.svg)](https://wakatime.com/@30539af5-cc82-4185-ba27-e3d33147e228)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=F-Jan&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=F-Jan&theme=github_dark&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Languages:
 <p>

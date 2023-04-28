@@ -23,9 +23,6 @@ I love developing software and learning about new technologies.
   <a href = "https://www.rust-lang.org/" title = "Rust">
     <img src = "https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/rust/rust.png" width = 7%>
   </a>
-  <a href = "https://de.wikipedia.org/wiki/C%2B%2B" title = "C++">
-    <img src = "https://raw.githubusercontent.com/isocpp/logos/master/cpp_logo.png" width = 7%>
-  </a>
   <a href = "https://php.net" title = "PHP">
     <img src = "https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png" width = 7%>
   </a>
